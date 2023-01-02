@@ -1,0 +1,366 @@
+.navbar{
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.book_logo{
+    position: absolute;
+    width: 80px;
+    height: 70px;
+    left: 7px;
+    top: 15px;
+}
+
+.whiteBack{
+    width: 900px;
+    height: 67px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 15px;
+    left: 150px;
+    overflow: hidden;
+}
+
+.research{
+    width: 200px;
+    color: rgb(6, 0, 0);
+    position: absolute;
+    top: 33px;
+    left: 180px;
+    font-family: Inter;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.researchIcon{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 950px;
+    top: 25px;
+}
+
+.aquaBack{
+    height: 50px;
+    background: rgba(36,208,208,1);
+    opacity: 0.30000001192092896;
+    position: absolute;
+    top: 105px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+}
+
+.book{
+    width: 253px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 115px;
+    left: 250px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.stationary{
+    width: 253px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 115px;
+    left: 350px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.toy{
+    width: 253px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 115px;
+    left: 450px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.hobby{
+    width: 253px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 115px;
+    left: 550px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.puzzle{
+    width: 253px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 115px;
+    left: 650px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.notebook{
+    width: 253px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 115px;
+    left: 750px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.campaigns{
+    width: 253px;
+    color: rgb(251, 0, 0);
+    position: absolute;
+    top: 115px;
+    left: 950px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+}
+
+.vacationBack1{
+    width: 225px;
+    height: 189px;
+    background: rgb(107, 75, 75);
+    opacity: 0.6000000238418579;
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+}
+
+.vacationBack2{
+    width: 225px;
+    height: 189px;
+    background: rgb(107, 75, 75);
+    opacity: 0.6000000238418579;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+}
+
+.vacationBack3{
+    width: 225px;
+    height: 189px;
+    background: rgb(107, 75, 75);
+    opacity: 0.6000000238418579;
+    position: absolute;
+    top: 200px;
+    left: 550px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+}
+
+.vacationBack4{
+    width: 225px;
+    height: 189px;
+    background: rgb(107, 75, 75);
+    opacity: 0.6000000238418579;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+}
+
+.vacationBack5{
+    width: 225px;
+    height: 189px;
+    background: rgb(107, 75, 75);
+    opacity: 0.6000000238418579;
+    position: absolute;
+    top: 200px;
+    left: 1050px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    overflow: hidden;
+}
+
+.icon1{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 57px;
+    top: 205px;
+}
+
+.icon2{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 307px;
+    top: 205px;
+}
+
+.icon3{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 557px;
+    top: 205px;
+}
+
+.icon4{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 807px;
+    top: 205px;
+}
+
+.icon5{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 1057px;
+    top: 205px;
+}
+
+.carousel{
+    position: absolute;
+    height: 500px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    top: 300px;
+}
+
+.item{
+    position: absolute;
+    height: 700px;
+    width: 700px;
+    top: 50px;
+}
+
+.aquaBack2{
+    height: 200px;
+    background: rgba(36,208,208,1);
+    opacity: 0.30000001192092896;
+    position: absolute;
+    top: 960px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+}
+
+.book1{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 57px;
+    top: 970px;
+}
+
+.book2{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 307px;
+    top: 970px;
+}
+
+.book3{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 557px;
+    top: 970px;
+}
+
+.book4{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 807px;
+    top: 970px;
+}
+
+.book5{
+    position: absolute;
+    width: 210px;
+    height: 180px;
+    left: 1057px;
+    top: 970px;
+}
+
+.redBack{
+    height: 200px;
+    background: rgb(243, 11, 11);
+    position: absolute;
+    top: 1200px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+}
+
+.redboxText{
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1275px;
+    left: 350px;
+    right: 0px;
+    font-weight: Bold;
+    font-size: 45px;
+}
+
+.aquaBack3{
+    height: 200px;
+    background: rgba(36,208,208,1);
+    opacity: 0.30000001192092896;
+    position: absolute;
+    top: 1450px;
+    left: 0px;
+    right: 0px;
+    overflow: hidden;
+}
+
+.lastP{
+    color: black;
+    position: absolute;
+    top: 1500px;
+    left: 50px;
+    font-size: 20px;
+}
